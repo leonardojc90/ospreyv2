@@ -1,0 +1,3 @@
+[submodule "openmv"]
+	path = openmv
+	url = https://github.com/leonardojc90/openmv.git
